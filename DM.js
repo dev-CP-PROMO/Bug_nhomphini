@@ -1,7 +1,7 @@
 // ================================================
 // MUDE APENAS ESTAS DUAS LINHAS
 // ================================================
-var TELEGRAM_USER = 'Big_Oldsellerx';
+var TELEGRAM_USER = 'SeIIer_xXx';
 var PRODUCT_NAME  = 'novo1';
 // ================================================
 // Detecção do produto (por prioridade):
